@@ -6,7 +6,7 @@ export default function OfflineReact() {
     <>
       <div className="d-flex  vh-100 justify-content-center align-items-center ">
         <div>
-          <img src={img1} alt="ohhline" className=" m-auto" />
+          <img src={img1} alt="offline" className=" w-100 px-2 m-auto" />
         </div>
       </div>
     </>
